@@ -1,1 +1,1 @@
-# Simple Wordcloud Generator using Python By fetching data from Wikipedia Pages..
+# Simple Wordcloud Generator using Python by fetching data from Wikipedia Pages..
